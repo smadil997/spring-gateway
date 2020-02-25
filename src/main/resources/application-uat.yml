@@ -1,0 +1,5 @@
+server:
+  port: 87613
+
+spring:
+  profiles.active: uat
